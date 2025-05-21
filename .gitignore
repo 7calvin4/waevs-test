@@ -1,0 +1,12 @@
+# Ignore specific files
+/aftman.toml
+/default.project.json
+
+# Ignore all .lua and .json files
+*.lua
+*.json
+
+# Exceptions
+!/src/ServerScriptService/General/Ships.lua
+!/src/StarterGui/CoreGui/Facts.lua
+!/src/ReplicatedStorage/ShipUI/LocalScript.client.lua
