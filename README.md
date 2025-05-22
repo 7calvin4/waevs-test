@@ -2,7 +2,7 @@
 
 This repository contains dev content of waevs test.  
   
-**Note:** This is *not* an open-source project, more like a repository to track our commits. (This means that you can't steal our code, but don't worry! I'll leave some of the codes for you guys :D)
+**Note:** This is *not* an open-source project. Most of the scripts are excluded from commits and kept private. However, some are included under **Content** either to assist beginner developers or because the code is already publicly available.
 
 ## Content
 
