@@ -8,4 +8,5 @@ This repository contains dev content of waevs test.
 
 - [**Ships module**](https://github.com/7calvin4/waevs-test/blob/waevs/src/ServerScriptService/General/Ships.lua) — Contains a list of all ships, including their stats and related data.  
 - [**Facts list**](https://github.com/7calvin4/waevs-test/blob/waevs/src/StarterGui/CoreGui/Facts.lua) — Contains a list of all the facts that are displayed after clicking play, you may do a pull request if you want to add more content to it!  
-- [**Throttle System (Client)**](https://github.com/7calvin4/waevs-test/blob/waevs/src/ReplicatedStorage/ShipUI/LocalScript.client.lua) — The code used to manage the throttle!
+- [**Throttle System (Client)**](https://github.com/7calvin4/waevs-test/blob/waevs/src/ReplicatedStorage/ShipUI/LocalScript.client.lua) — The code used to manage the throttle!  
+- [**Gerstner Waves Module**](https://github.com/7calvin4/waevs-test) — The module for calculating gerstner waves. It's from another coder's open-sourced project so it's free to use ig.  
