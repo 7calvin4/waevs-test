@@ -8,6 +8,7 @@
 
 # Exceptions
 !/src/ServerScriptService/General/Ships.lua
+!/src/ServerScriptService/General/QPerfectionWeld.lua
 !/src/StarterGui/CoreGui/Facts.lua
 !/src/ReplicatedStorage/ShipUI/LocalScript.client.lua
 !/src/ServerScriptService/_G/Waves/GerstnerWave.lua
